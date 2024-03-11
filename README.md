@@ -8,7 +8,7 @@ The aim of the project is to visualize the created 3D Avatar head for the [Avagi
 ## Current Status
 
 <figure class="video_container">
-  <iframe src="demo/xt_demo.mp4" frameborder="0" allowfullscreen="true"> 
+  <iframe src="demo/xt_demo.gif" frameborder="0" allowfullscreen="true"> 
 </iframe>
 </figure>
 
