@@ -7,10 +7,7 @@
 The aim of the project is to visualize the created 3D Avatar head for the [Avagi](https://demo.avagi.com/#/home). The visualization mainly built on the three.js. 
 ## Current Status
 
-<figure class="video_container">
-  <iframe src="demo/xt_demo.mp4" frameborder="0" allowfullscreen="true"> 
-</iframe>
-</figure>
+https://user-images.githubusercontent.com/58986949/115314310-805b2780-a1a7-11eb-8558-648a367ea231.mp4
 
 
 ### Change log -->
