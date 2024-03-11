@@ -14,4 +14,6 @@ The aim of the project is to visualize the created 3D Avatar head for the [Avagi
 ### Change log -->
 * 03.11.2024, we release the fist demo vision of our work
 
-
+## Todo List
+* [ ] Add the eyeball in the charactor
+* 
