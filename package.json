@@ -1,7 +1,7 @@
 {
   "name": "three",
   "version": "0.161.0",
-  "description": "JavaScript 3D library",
+  "description": "Avatar built on JavaScript 3D library",
   "type": "module",
   "main": "./build/three.cjs",
   "module": "./build/three.module.js",
